@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Add visuals in guides/distance-calculation.md (#7876)
