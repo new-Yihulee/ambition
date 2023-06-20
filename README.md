@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Improve Coral Edge TPU guide (#8160)
