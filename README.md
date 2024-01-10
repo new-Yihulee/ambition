@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
