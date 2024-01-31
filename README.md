@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+New HUB Cloud Training docs page (#8174)
