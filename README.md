@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Improve Docs Modes tables (#8266)
