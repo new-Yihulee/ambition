@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Add Amazon Sagemaker Docs integrations page (#7293)
